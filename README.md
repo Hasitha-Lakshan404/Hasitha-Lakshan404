@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Hasitha-Lakshan
 
 <!-- [![MasterHead](https://c.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)](https://hasitha-lakshan404.io) -->
 
@@ -50,7 +49,8 @@ https://github-readme-streak-stats.herokuapp.com/?user=Hasitha-Lakshan404
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasitha-lakshan404&show_icons=true&locale=en&layout=compact" alt="hasitha-lakshan404" /></p>  older one with light theam --> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasitha-lakshan404&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hasitha-lakshan404" /></p>
-
+<!-- <img align="right" alt="block" width="250" src="https://i.pinimg.com/originals/8a/61/ab/8a61abcf8effc6010b0094f50c1fc912.gif"> -->
+<img alt="block" width="1500" height="100" src="https://cdn130.picsart.com/321303410037201.gif?to=crop&type=webp&r=40x40&q=50">
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasitha-lakshan404&" alt="hasitha-lakshan404" /></p>  -->
