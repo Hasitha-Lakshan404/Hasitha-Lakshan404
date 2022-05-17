@@ -2,7 +2,13 @@
 
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fbanner-gif-22389167&psig=AOvVaw0d3TLbH2_0OsofM6fBQn00&ust=1652874486213000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDBl7e75vcCFQAAAAAdAAAAABAD)](https://hasitha-lakshan404.io)
 
-<h1 align="center">Hi 👋, I'm Ha§itha Lak§han</h1>
+<h1 align="center">
+  Hii
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>,
+  I'm Ha§itha Lak§han 💻
+</h1>
+
+<!-- <h1 align="center">Hi 👋, I'm Ha§itha Lak§han</h1> -->
 <h3 align="center">I'm Full Stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/14MLVuiUn9rfksHa6DiZZ55TnYmtFhNNn/view?usp=sharing">
 
