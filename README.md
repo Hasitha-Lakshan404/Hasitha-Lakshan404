@@ -12,7 +12,13 @@
 </h1>
 
 <!-- <h1 align="center">Hi 👋, I'm Ha§itha Lak§han</h1> -->
-<h3 align="center">I'm Full Stack developer from Sri Lanka</h3>
+<!-- <h3 align="center">I'm Full Stack developer from Sri Lanka</h3> -->
+
+<div align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=13F700&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'm++Full++Stack++developer++From++Sri++Lanka;Software+Designer;Developer;UI%2FUX++Designer;Gamer;Photographer)](https://git.io/typing-svg)
+</div>
+
 
 <!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"> -->
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/5e8e2b586a7a5f75a999e1c3080b66c3e1c4e93a172cd26207e184f5219353d5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61622f63342f35622f61626334356239633335366662623834363633326630313061613361343465662e676966">
@@ -21,7 +27,7 @@
 
 - 👨‍🎓 I’m  **Student**
 
-- 🔭 I’m  studying in **IJSE**
+- 🔭 I’m  studying in [**IJSE**](https://www.ijse.lk/)
 
 - 🌱 I’m currently learning **Performance testing**
 
