@@ -61,8 +61,23 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasitha-lakshan404&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hasitha-lakshan404" /></p>
 <!-- <img align="right" alt="block" width="250" src="https://i.pinimg.com/originals/8a/61/ab/8a61abcf8effc6010b0094f50c1fc912.gif"> -->
-<img alt="block" width="1500" height="100" src="https://cdn130.picsart.com/321303410037201.gif?to=crop&type=webp&r=40x40&q=50">
-<br>
+
+
+
+<!-- Snake -->
+<div align="center">
+  
+**My Contributions** 🤔 <br>
+<!--   <img alt="block" width="850" height="100" src="https://cdn130.picsart.com/321303410037201.gif?to=crop&type=webp&r=40x40&q=50"> -->
+![snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/red-alpha/github-contribution-grid-snake.svg)
+</div>
+
+
+<div align="center">
+
+<!-- <img alt="block" width="850" height="100" src="https://cdn130.picsart.com/321303410037201.gif?to=crop&type=webp&r=40x40&q=50"> -->
+
+</div><br>
 
 
 
@@ -75,5 +90,5 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasitha-lakshan404&" alt="hasitha-lakshan404" /></p>  -->
 
 <p align="center">
-  <img width="1500" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img width="850" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
