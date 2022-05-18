@@ -27,7 +27,7 @@
 
 - 👨‍🎓 I’m  **Student**
 
-- 🔭 I’m  studying in [**IJSE**](https://www.ijse.lk/)
+- 🔭 I’m  studying at [**IJSE**](https://www.ijse.lk/)
 
 - 🌱 I’m currently learning **Performance testing**
 
