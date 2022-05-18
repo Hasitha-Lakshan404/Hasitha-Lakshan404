@@ -74,3 +74,6 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasitha-lakshan404&" alt="hasitha-lakshan404" /></p>  -->
 
+<p align="center">
+  <img width="1500" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
