@@ -19,7 +19,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasitha-lakshan404&label=Profile%20views&color=0e75b6&style=flat" alt="hasitha-lakshan404" /> </p>
 
-- 🔭 I’m currently working on **i-Tech Lanka**
+- 👨‍🎓 I’m  **Student**
+
+- 🔭 I’m  studying in **IJSE**
 
 - 🌱 I’m currently learning **Performance testing**
 
