@@ -87,6 +87,20 @@
   <a href="https://Twitter.com" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="YouTube"  /></a>
 </div>
 
+
+
+<!-- ======= -->
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hasitha-Lakshan404&show_icons=true&theme=gotham" alt="Hasitha-Lakshan404|Stats"/>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Hasitha-Lakshan404&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasitha-Lakshan404&theme=github_dark"/> </p>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasitha-Lakshan404&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hasitha-Lakshan404&theme=github_dark"/>
+</div>
+ -->
+<!-- ========== -->
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasitha-lakshan404&" alt="hasitha-lakshan404" /></p>  -->
 
 <p align="center">
