@@ -3,7 +3,7 @@
 
 
 <div id="header" align="center">
-  <img src="welcome-banner.gif" width="800" height="250"/>
+  <img src="welcome-banner.gif" width="900" height="250"/>
 </div>
 
 
